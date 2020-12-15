@@ -5,8 +5,8 @@
 - ❤️‍🔥 Kotlin has been my primary language since early 2016 and I got recognized as the "Kotlin Guy" promoting this wonderful language!
 - 👨‍🏫 I do a lot of public speaking engagement, mentoring and teaching in my spare time.
 - 📚 I'm a published book author and tech editor.
-- 🏆 I'm also a Google Developer Expert in Kotlin & Android categories.
--🎙️I'm running a podcast in Croatian called "IT Podcast Osijek"!
+- 🏆 I'm also a [Google Developer Expert](https://developers.google.com/community/experts) in Kotlin & Android categories.
+- 🎙️I'm running a podcast in Croatian called [IT Podcast Osijek](https://www.youtube.com/channel/UCCRpADFImlrUPSz8HYVRN1w)!
 - 📖 I'm currently learning about Jetpack Compose and dabbling in Flutter.
 - 🤓🕹️ My hobbies are all the nerdy stuff - DnD, Video Games, MTG, board gaming.
 - 🧗I'm extremely enthusiastic about climbing indoors and outdoors.
