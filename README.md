@@ -10,5 +10,5 @@
 - 📖 I'm currently learning about Jetpack Compose and dabbling in Flutter.
 - 🤓🕹️ My hobbies are all the nerdy stuff - DnD, Video Games, MTG, board gaming.
 - 🧗I'm extremely enthusiastic about climbing (lead & boulder), indoors and outdoors.
-- ☕ If I ever helped you out with mentoring or problem-solving, you can [buy me a coffee](buymeacoffee.com/filbabic) to support my work!
+- ☕ If I ever helped you out with mentoring or problem-solving, you can [buy me a coffee](https://www.buymeacoffee.com/filbabic) to support my work!
 - 📫 Reach out to me via: fbabic96@gmail.com
