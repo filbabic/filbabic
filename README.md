@@ -2,7 +2,6 @@
 
 Work:
 - 💻 I've been an Android developer since 2015.
-- 📹 I'm an **Android Team Lead UI** at [Stream](https://getstream.io/).
 - ❤️‍🔥 Kotlin has been my primary language since early 2016 and I got recognized as the "Kotlin Guy" promoting it!
 - 🤝 You can find and connect with me on [LinkedIn](https://www.linkedin.com/in/filbabic/) if you have any questions or work opportunities.
 - 📫 Reach out to me via: fbabic96@gmail.com
@@ -16,4 +15,5 @@ Community:
 Fun:
 - 🤓🕹️ My hobbies are all the nerdy stuff - DnD, Video Games, MTG, board gaming.
 - 🧗 I'm extremely enthusiastic about climbing (lead & boulder), indoors and outdoors.
+- 🥊 I've also been doing Muay Thai kickbox.
 - 🐶🐱 I have two cats and a dog! So tons of fur around my house. 😴
